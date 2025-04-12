@@ -1,4 +1,4 @@
-﻿namespace MSAYearbook.GraphQL.Comments
+﻿namespace backend.GraphQL.Comments
 {
     public record AddCommentInput(
         string Content,

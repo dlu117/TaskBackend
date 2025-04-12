@@ -12,7 +12,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
-using MSAYearbook.GraphQL.Comments;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -7,7 +7,7 @@ using backend.Model;
 using backend.Data;
 using backend.Extensions;
 
-namespace MSAYearbook.GraphQL.Comments
+namespace backend.GraphQL.Comments
 {
     [ExtendObjectType(name: "Mutation")]
     public class CommentMutations
